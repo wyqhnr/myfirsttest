@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dc.png</file>
+        <file>btr.png</file>
+        <file>pro.png</file>
+        <file>battery</file>
+        <file>line-power</file>
+    </qresource>
+</RCC>
